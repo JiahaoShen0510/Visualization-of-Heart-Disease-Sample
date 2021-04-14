@@ -1,1 +1,3 @@
-![Heart Disease Analysis](https://user-images.githubusercontent.com/74155924/114793937-1549c500-9d51-11eb-946a-b512d1cce80c.png)
+Draw from the heart disease dataset that consists 303 samples, and select the group of paitents with the age over 50. 
+Visualize the heart disease result between the age and three factors of Resting Blood Pressure, Maximum Heart Rate and Cholesterol Test. 
+
